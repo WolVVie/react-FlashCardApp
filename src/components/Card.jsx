@@ -48,7 +48,7 @@ function Card() {
                 id='card-input'
                 placeholder='Yazı yazın'
                 />
-                <button onClick={addContent} className='btn-card' id='add'>Ekle</button>
+                <button onClick={addContent} className='btn-card' id='add'>Add</button>
                 <button onClick={reset} className='btn-card' id='reset'>Reset</button>
             </div>
 
